@@ -1,0 +1,24 @@
+{
+  "name": "meshblu-reaper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reaper-skynet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/octoblu/meshblu-reaper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octoblu/meshblu-reaper/issues"
+  },
+  "homepage": "https://github.com/octoblu/meshblu-reaper",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "raspi-io": "^1.0.2",
+    "skynet": "^1.2.0"
+  }
+}
